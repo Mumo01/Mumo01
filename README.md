@@ -9,7 +9,7 @@
 - <b>TCPDump and Using Wireshark</b>
   - [Practicing TCPDump Usecases & Scanning on Wireshark](https://github.com/Mumo01/tcpdump)
 - <b>Securing SOHO</b>
-  - [Securing a Small Office/Home Office (SOHO) network](https://github.com/Mumo01)
+  - [Securing a Small Office/Home Office (SOHO) network](https://github.com/Mumo01/soho_network)
 - <b>Case Studies</b>
   - [Equifax Data Breach 2017](https://github.com/Mumo01)
   - [CyberSecurity Architecture](https://github.com/Mumo01)
