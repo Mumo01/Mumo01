@@ -11,7 +11,7 @@
 - <b>Securing SOHO</b>
   - [Securing a Small Office/Home Office (SOHO) network](https://github.com/Mumo01/soho_network)
 - <b>Case Studies</b>
-  - [Equifax Data Breach 2017](https://github.com/Mumo01)
+  - [Equifax Data Breach 2017](https://github.com/Mumo01/equifax_casestudy)
   - [CyberSecurity Architecture](https://github.com/Mumo01)
   - [Compliance Framework, Standards & Regulations](https://github.com/Mumo01)
     
