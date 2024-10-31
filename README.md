@@ -27,7 +27,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b> Smart Contracts </b>
-  - [Token Staking Dapp using Solidity](https://github.com/https://github.com/Mumo01/token_stacking_dapp.git)
+  - [Token Staking Dapp using Solidity](https://github.com/Mumo01/token_stacking_dapp.git)
   - [Practicing using PyTeal on environments](https://github.com/Mumo01/pyteal_playground.git)
   - [RealEstate Dapp using Solidity & Thirdweb](https://github.com/Mumo01/real-estate-solidity.git)
   - [Token Conversion Dapp using Solidity](https://github.com/Mumo01/cryptPrinceWeb3.git)
