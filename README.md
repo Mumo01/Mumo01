@@ -2,6 +2,7 @@
   <a href="">Cybersecurity SOC Analyst</a>,
   <a href="https://github.com/Mumo01">Programmer</a>
   <h3>@ mumovictor77@gmail.com</br></h3>
+  
   <b><i>"When threats go phishing 🎣, I’m the one who won’t take the bait 🙅‍♂️"</i></b>
   
 <h2>👨‍💻 CyberSecurity Projects:</h2>
