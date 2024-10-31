@@ -1,6 +1,8 @@
 <h1>Hi, I'm Victor! <br/>
   <a href="">Cybersecurity SOC Analyst</a>,
-  <a href="https://github.com/Mumo01">Programmer</a> 
+  <a href="https://github.com/Mumo01">Programmer</a>
+  <h3>@ mumovictor77@gmail.com</br></h3>
+  <b><i>"When threats go phishing 🎣, I’m the one who won’t take the bait 🙅‍♂️"</i></b>
   
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
@@ -12,8 +14,8 @@
   - [Securing a Small Office/Home Office (SOHO) network](https://github.com/Mumo01/soho_network)
 - <b>Case Studies</b>
   - [Equifax Data Breach 2017](https://github.com/Mumo01/equifax_casestudy)
-  - [CyberSecurity Architecture](https://github.com/Mumo01)
-  - [Compliance Framework, Standards & Regulations](https://github.com/Mumo01)
+  - [CyberSecurity Architecture](https://github.com/Mumo01/cs_architecture_casestudy)
+  - [Compliance Framework, Standards & Regulations](https://github.com/Mumo01/compliance_casestudy/blob/main/README.md)
     
 <h2>📝 Certifications</h2> 
 
@@ -22,7 +24,7 @@
 - [Google Data Analytics Professional Certificate]()
 - [Certificate of Merit for CCNA Routing and Switching]()
 - [ISC2 CC Certificate]() <b><i>Scheduled Exam for Nov 2024</i></b>
-<br><br><b><i>"When threats go phishing 🎣, I’m the one who won’t take the bait 🙅‍♂️"</i></b>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -35,24 +37,25 @@
     
 - <b>Full Stack Web Apps (React, NodeJS, Firebase, AWS and Machine Learning Components)</b>
   - [Blog App](https://github.com/Mumo01/blogPrince) <b><i>(VueJS & Firebase)</b></i>
-  - [UX/UI Tesla Mobile App](https://github.com/Mumo01/TeslaAppClone.git) <b><i>(React-Native)</b></i>
-  - [Signal Mobile App](https://github.com/Mumo01/SignalClone.git) <b><i>(React-Native)</b></i>
-  - [Twitter/X Mobile App](https://github.com/Mumo01/TwitterClone.git) <b><i>(TypeScript)</b></i>
+  - [UX/UI Tesla Mobile App](https://github.com/Mumo01/TeslaAppClone.git) <b><i>(React-Native)</i></b>
+  - [Signal Mobile App](https://github.com/Mumo01/SignalClone.git) <b><i>(React-Native)</i></b>
+  - [Twitter/X Mobile App](https://github.com/Mumo01/TwitterClone.git) <b><i>(TypeScript)</i></b>
 
 
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MumoVictor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MumoVictor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MumoVictor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 [instagram]: https://www.instagram.com//
 [linkedin]: https://www.linkedin.com/in/victor-prince-mvp19//
 
 
 
+
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
