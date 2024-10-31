@@ -17,6 +17,7 @@
   - [Equifax Data Breach 2017](https://github.com/Mumo01/equifax_casestudy)
   - [CyberSecurity Architecture](https://github.com/Mumo01/cs_architecture_casestudy)
   - [Compliance Framework, Standards & Regulations](https://github.com/Mumo01/compliance_casestudy/blob/main/README.md)
+  - 🔭 I’m currently working on a few more exciting projects ... Stay tuned 👀
     
 <h2>📝 Certifications</h2> 
 
