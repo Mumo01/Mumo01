@@ -7,7 +7,7 @@
 - <b>Working with Nmap</b>
   - [Practicing Scanning on Nmap and using Scripts and CheatSheets](https://github.com/Mumo01)
 - <b>TCPDump and Using Wireshark</b>
-  - [Practicing TCPDump Usecases & Scanning on Wireshark](https://github.com/Mumo01)
+  - [Practicing TCPDump Usecases & Scanning on Wireshark](https://github.com/Mumo01/NmapScan)
 - <b>Securing SOHO</b>
   - [Securing a Small Office/Home Office (SOHO) network](https://github.com/Mumo01)
 - <b>Case Studies</b>
