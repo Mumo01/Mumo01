@@ -7,6 +7,8 @@
   
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>SSH_Pentest</b>
+  - [Practical exercise in understanding SSH security, penetration testing methodologies, and the use of industry-standard tools](https://github.com/Mumo01/ssh_pentest)
 - <b>Working with Nmap</b>
   - [Practicing Scanning on Nmap and using Scripts and CheatSheets](https://github.com/Mumo01/Nmap_walkthrough)
 - <b>TCPDump and Using Wireshark</b>
