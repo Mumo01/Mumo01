@@ -10,9 +10,9 @@
 - <b>SSH_Pentest</b>
   - [Practical exercise in understanding SSH security, penetration testing methodologies, and the use of industry-standard tools](https://github.com/Mumo01/ssh_pentest)
 - <b>FTP_Pentest</b>
-  - [In-depth FTP Security Analysis: Practical Penetration Testing Techniques and Advanced Tool Application](https://github.com/Mumo01/ftppentest_metasploitable)
+  - [In-depth FTP Security Analysis: Practical Penetration Testing Techniques and Advanced Tool Application](https://github.com/Mumo01/ftp_pentest)
 - <b>FTP Pentest_Metasploit</b>
-  - [Penetration testing project targeting the FTP service on the Metasploitable 2 vulnerable machine.](https://github.com/Mumo01/ssh_pentest)
+  - [Penetration testing project targeting the FTP service on the Metasploitable 2 vulnerable machine.](https://github.com/Mumo01/ftppentest_metasploitable)
 - <b>Working with Nmap</b>
   - [Practicing Scanning on Nmap and using Scripts and CheatSheets](https://github.com/Mumo01/Nmap_walkthrough)
 - <b>TCPDump and Using Wireshark</b>
