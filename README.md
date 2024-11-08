@@ -12,7 +12,7 @@
 - <b>FTP_Pentest</b>
   - [In-depth FTP Security Analysis: Practical Penetration Testing Techniques and Advanced Tool Application](https://github.com/Mumo01/ftp_pentest)
 - <b>FTP Pentest_Metasploit</b>
-  - [Penetration testing project targeting the FTP service on the Metasploitable 2 vulnerable machine.](https://github.com/Mumo01/ftppentest_metasploitable)
+  - [Penetration testing project targeting the FTP service on the Metasploitable 2 vulnerable machine.](https://github.com/Mumo01/ftppentest_metasploitable2)
 - <b>Working with Nmap</b>
   - [Practicing Scanning on Nmap and using Scripts and CheatSheets](https://github.com/Mumo01/Nmap_walkthrough)
 - <b>TCPDump and Using Wireshark</b>
