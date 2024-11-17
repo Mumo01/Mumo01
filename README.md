@@ -27,11 +27,12 @@
     
 <h2>📝 Certifications</h2> 
 
+- [ISC2 CC Certificate]() 
 - [IBM Cybersecurity Analyst Professional Certificate]()
 - [IBM Project-Based Learning in Artificial Intelligence]()
 - [Google Data Analytics Professional Certificate]()
 - [Certificate of Merit for CCNA Routing and Switching]()
-- [ISC2 CC Certificate]() 
+
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
