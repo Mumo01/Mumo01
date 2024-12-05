@@ -7,6 +7,9 @@
   
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>Azure Sentinel (SIEM) Walkthrough</b>
+  - [This project demonstrates using Azure Sentinel (SIEM) to analyze and visualize failed login attempts by gathering event logs, extracting geo-data, and plotting attacks on a map.](https://github.com/Mumo01/azure_sentinel)
+    
 - <b>Web Application_Pentest Part 1 [Reconnaissance & Pre-Attack]</b>
   - [This project outlines key testing techniques, tools, and methodologies, showcasing practical examples and results](https://github.com/Mumo01/webapp_pentest)
 - <b>SSH_Pentest</b>
