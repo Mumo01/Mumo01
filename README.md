@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Victor! <br/>
-  <a href="">Cybersecurity SOC Analyst</a>,
+  <a href="">Cybersecurity SecurityEngineer</a>,
   <a href="https://github.com/Mumo01">Programmer</a>
   <h3>@ mumovictor77@gmail.com</br></h3>
   
