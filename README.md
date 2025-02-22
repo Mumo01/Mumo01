@@ -49,8 +49,9 @@
   - [Token Conversion Dapp using Solidity](https://github.com/Mumo01/cryptPrinceWeb3.git)
   - [Crowdfunding Dapp using Solidity](https://github.com/Mumo01/CrowdFunding.git)
     
-- <b>Full Stack Web Apps (React, NodeJS, Firebase, AWS and Machine Learning Components)</b>
-  - [Blog App](https://github.com/Mumo01/blogPrince) <b><i>(VueJS & Firebase)</b></i>
+- <b>Full Stack Web Apps (React, NodeJS, Firebase, AWS, and Machine Learning Components)</b>
+  - [Django Book App](https://github.com/Mumo01/djangobook.git) <b><i>(Django & RESTframework )</b></i>
+  - [Blog App](https://github.com/Mumo01/blogPrince.git) <b><i>(VueJS & Firebase)</b></i>
   - [UX/UI Tesla Mobile App](https://github.com/Mumo01/TeslaAppClone.git) <b><i>(React-Native)</i></b>
   - [Signal Mobile App](https://github.com/Mumo01/SignalClone.git) <b><i>(React-Native)</i></b>
   - [Twitter/X Mobile App](https://github.com/Mumo01/TwitterClone.git) <b><i>(TypeScript)</i></b>
