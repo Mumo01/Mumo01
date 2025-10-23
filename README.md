@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Victor! <br/>
-  <a href="">Cybersecurity SecurityEngineer</a>,
+  <a href="">Cybersecurity Engineer</a>,
   <a href="https://github.com/Mumo01">Programmer</a>
   <h3>@ mumovictor77@gmail.com</br></h3>
   
@@ -34,12 +34,12 @@
     
 <h2>📝 Certifications</h2> 
 
-- [ISC2 CC Certificate]() 
-- [IBM Cybersecurity Analyst Professional Certificate]()
+-  [Microsoft Cybersecurity Architect EXPERT]()
+-  [Microsoft Security Operations Analyst Associate]()
+-  [Cisco Certified Network Associate CCNA 200-301]()
+- [IBM Certified Associate - Security QRadar]()
 - [IBM Project-Based Learning in Artificial Intelligence]()
 - [Google Data Analytics Professional Certificate]()
-- [Certificate of Merit for CCNA Routing and Switching]()
-
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
