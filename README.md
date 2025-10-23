@@ -34,10 +34,10 @@
     
 <h2>📝 Certifications</h2> 
 
--  [Microsoft Cybersecurity Architect EXPERT]()
--  [Microsoft Security Operations Analyst Associate]()
+-  [Microsoft Cybersecurity Architect EXPERT SC-100]()
+-  [Microsoft Security Operations Analyst Associate SC-200]()
 -  [Cisco Certified Network Associate CCNA 200-301]()
-- [IBM Certified Associate - Security QRadar]()
+- [IBM Certified Associate - Security QRadar - C9006200]()
 - [IBM Project-Based Learning in Artificial Intelligence]()
 - [Google Data Analytics Professional Certificate]()
 
